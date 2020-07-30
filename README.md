@@ -4,3 +4,5 @@ In this project i want a simple moderately accurate weighing scale So i have use
 Dependency:
  HX711 libray (#include "HX711.h") from https://github.com/bogde/HX711
  MiniCore from https://github.com/MCUdude/MiniCore (Optional)
+
+Watch the working model/video - https://www.youtube.com/watch?v=5z8-QC9hrHE
